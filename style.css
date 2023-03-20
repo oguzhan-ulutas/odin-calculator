@@ -40,6 +40,10 @@ body {
   justify-content: space-between;
 }
 
+.btn:hover {
+  background-color: blueviolet;
+}
+
 .btn {
   width: 90px;
   height: 90px;
