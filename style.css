@@ -28,7 +28,7 @@ body {
   border-radius: 16px;
   padding: 16px;
   margin-bottom: 12px;
-  background-color: rgb(255, 172, 99);
+  background-color: rgba(255, 172, 99, 0.2);
   color: antiquewhite;
   font-size: 45px;
   text-align: right;
@@ -44,15 +44,20 @@ body {
   background-color: blueviolet;
 }
 
+.btn:active {
+  background-color: antiquewhite;
+}
+
 .btn {
   width: 90px;
   height: 90px;
   margin: 2px;
   border-radius: 16px;
-  border: 0px;
+  border: 1px;
   font-size: 32px;
   color: antiquewhite;
   background-color: rgb(255, 172, 99);
+  transition: 0.2s;
 }
 
 .column {
