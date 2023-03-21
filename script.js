@@ -45,7 +45,7 @@ const ac = document.querySelector(".ac");
 const c = document.querySelector(".c");
 
 // Displays the the clicked numbers on the display area.
-displayLive.textContent = "";
+displayLive.textContent = "0";
 
 function display() {
   let displayValue;
