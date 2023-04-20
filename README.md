@@ -1,6 +1,6 @@
 # odin-calculator
 
-[The Odin Project](https://www.theodinproject.com/) exercise to make a calculator.
+[The Odin Project](https://www.theodinproject.com/lessons/foundations-calculator) exercise to make a calculator.
 
 [Live Priview](https://oguzhan-ulutas.github.io/odin-calculator/)
 
