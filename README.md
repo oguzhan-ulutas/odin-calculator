@@ -2,7 +2,7 @@
 
 [The Odin Project](https://www.theodinproject.com/lessons/foundations-calculator) exercise to make a calculator.
 
-[Live Priview](https://oguzhan-ulutas.github.io/odin-calculator/)
+[Live Preview](https://oguzhan-ulutas.github.io/odin-calculator/)
 
 **What I learned with this project;**
 
